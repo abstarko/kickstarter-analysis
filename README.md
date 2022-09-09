@@ -1,4 +1,4 @@
-##An Analysis of Kickstarter Campaigns
+## An Analysis of Kickstarter Campaigns
  
 Louise is wanting to raise enough money for her play in the US which will estimate around $12,000. We have collected the data from Kickstarter which is a crowdfunding platoform where we can see over 4,000 campaigns that have raised money for projects similar to Louise's. We can see that many of the campaigns failed to hit their goal mark. We broke down our data to look at "theater" data specifically. 
 Looking at our pivot table you can see that there were 525 successful theater Kickstarters.
