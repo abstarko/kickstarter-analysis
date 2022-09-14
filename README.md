@@ -12,15 +12,15 @@ Louise is wanting to raise enough money for her play, Fever, in the US which wil
 
 By creating a pivot table, I was able to see an analysis of Outcomes Based on Launch Date. I was able to accurately create this table by filtering fields down to outcomes in the columns section, date-created to the rows section, and outcomes to the value section. From there, I filtered the data out to specify the years and parent category section. I was then able to filter out the parent category to showcase on theater data, where I broke it out into successful, failed, canceled, and total campaigns. Below are the results of the Outcomes Based on Launch Date pivot table and line chart:
 
-![pivot table](pivottable.png)
+![pivot table.png](resources/pivottable.png)
 
-![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 By creating a new table using the COUNTIFS function you can display the Outcomes Based on Goals in a line graph. By doing so I was able to gather the numbers for successful, failed, and canceled campigns in their receptive goal category. I was able to then convert this to percentage after totaling up the project amounts. This is how I was able to create the line graph, to give us a better visual of the overall success rate of theater campaigns based on their goals, as displayed below:
 
-![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png) 
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png) 
 
 
 ### Challenges and Difficulties Encountered
