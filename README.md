@@ -25,7 +25,7 @@ By creating a new table using the COUNTIFS function you can display the Outcomes
 
 ### Challenges and Difficulties Encountered
 
-
+I did not come across any challeneges other than making sure the right COUNTIFS function was used and that I had broken it down into the correct filter with the correct goal spand. I can see how this can get confusing, if the equation is not filtered correctly and changed appropriately with each goal category the numbers can go all over the place and not add up correctly. 
 
 ## Results
 
@@ -37,10 +37,9 @@ Looking at data for plays in GB, since Louise showed interest in this market; bu
 
 I would recommend that Louise kicks off her campaign in June in order to have the best chance of having a sucessful campaign. Though her goal of $12,000 in the US is high compared to other theater campaigns, it is not unattainable, with having 525 successful US theater kickstarters out of 912. Incentives for donors would also be helpful. If she is to launch a campaign in GB, I would recommend cutting her goal in half in order to have a successful campaign. 
 
-When only using one crowdfunding platform, like Kickstarter, we are limiting ourself to data. If we wanted to dive even deeper into data i would recommend using more corwdfunding platofrms to gather data from. 
+When only using one crowdfunding platform, like Kickstarter, we are limiting ourself to data. If we wanted to dive even deeper into data I would recommend using more corwdfunding platofrms to gather data from that have theater categories. 
 
-- What are some other possible tables and/or graphs that we could create?
-
+We could use a box and whisker chart to get a better idea of data points across specific measures. This could help when looking at money raised to get a better idea of the mean, meadian, and mode for successful campaigns. 
 
 
 
