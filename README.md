@@ -18,7 +18,7 @@ By creating a pivot table, I was able to see an analysis of Outcomes Based on La
 
 ### Analysis of Outcomes Based on Goals
 
-By creating a new table using the COUNTIFS function you can display the Outcomes Based on Goals in a line graph. By doing so I was able to gather the numbers for successful, failed, and canceled campigns in their receptive goal category. I was able to then convert this to percentage after totaling up the project amounts. This is how I was able to create the line graph, to give us a better visual of the overall success rate of theater campaigns based on their goals, as displayed below:
+By creating a new table using the COUNTIFS function you can display the Outcomes Based on Goals in a line graph. By doing so I was able to gather the numbers for successful, failed, and canceled campaigns in their receptive goal category. I was able to then convert this to percentage after totaling up the project amounts. This is how I was able to create the line graph, to give us a better visual of the overall success rate of theater campaigns based on their goals, as displayed below:
 
 ![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png) 
 
