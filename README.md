@@ -20,7 +20,7 @@ By creating a pivot table, I was able to see an analysis of Outcomes Based on La
 
 By creating a new table using the COUNTIFS function you can display the Outcomes Based on Goals in a line graph. By doing so I was able to gather the numbers for successful, failed, and canceled campigns in their receptive goal category. I was able to then convert this to percentage after totaling up the project amounts. This is how I was able to create the line graph, to give us a better visual of the overall success rate of theater campaigns based on their goals, as displayed below:
 
-![Outcomes_vs_Goals.png](resources/linegraph.png) 
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png) 
 
 
 ### Challenges and Difficulties Encountered
@@ -29,7 +29,7 @@ By creating a new table using the COUNTIFS function you can display the Outcomes
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 When looking for the best time for Louise to launch her campaign we can see in our line chart that May was the most successful month. While, January, October, June, and July all had around the same number of failed campaign launches. When we filter our chart to theater, we can see that this is a very popular and successful type of campaign overall. We can see that June is a successful time to launch a campaign in this category, in which I would recommend to Louise to launch hers in the month of June. 
-![linechart](path/to/linechart.png)
+
 
 - What can you conclude about the Outcomes based on Goals?
 Looking at data for plays in GB, since Louise showed interest in this market; budgeting 4,000 pounds. We used a box plot to look at the big picture. We can see that most plays had their campaign goals at less than half of what Louise's is. She should look at getting her play produced for less than 4,000 pounds, around 2,000 pounds would be more reasonable.
