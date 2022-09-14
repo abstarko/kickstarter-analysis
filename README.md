@@ -12,7 +12,7 @@ Louise is wanting to raise enough money for her play, Fever, in the US which wil
 
 By creating a pivot table, I was able to see an analysis of Outcomes Based on Launch Date. I was able to accurately create this table by filtering fields down to outcomes in the columns section, date-created to the rows section, and outcomes to the value section. From there, I filtered the data out to specify the years and parent category section. I was then able to filter out the parent category to showcase on theater data, where I broke it out into successful, failed, canceled, and total campaigns. Below are the results of the Outcomes Based on Launch Date pivot table and line chart:
 
-![pivot table.png](resources/pivottable.png)
+![pivot_table.png](resources/pivot_table.png)
 
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
